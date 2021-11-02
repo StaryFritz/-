@@ -1,0 +1,14 @@
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
