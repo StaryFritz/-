@@ -22,8 +22,8 @@ namespace lab3
             }
             set
             {
-                if (debet > 0)
-                    debet = Debet;
+                if (value > 0)
+                    debet = value;
                 else
                     Console.WriteLine("Значение не подходит по формату");
             }
