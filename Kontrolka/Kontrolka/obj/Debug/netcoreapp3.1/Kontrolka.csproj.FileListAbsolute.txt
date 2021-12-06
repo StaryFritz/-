@@ -1,0 +1,14 @@
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\bin\Debug\netcoreapp3.1\Kontrolka.exe
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\bin\Debug\netcoreapp3.1\Kontrolka.deps.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\bin\Debug\netcoreapp3.1\Kontrolka.runtimeconfig.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\bin\Debug\netcoreapp3.1\Kontrolka.runtimeconfig.dev.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\bin\Debug\netcoreapp3.1\Kontrolka.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\bin\Debug\netcoreapp3.1\Kontrolka.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.csproj.AssemblyReference.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.AssemblyInfoInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.AssemblyInfo.cs
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.csproj.CoreCompileInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Kontrolka\Kontrolka\obj\Debug\netcoreapp3.1\Kontrolka.genruntimeconfig.cache

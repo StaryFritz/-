@@ -1,0 +1,16 @@
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.exe
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.deps.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.runtimeconfig.dev.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\lab6.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.AssemblyReference.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfoInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.AssemblyInfo.cs
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.genruntimeconfig.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\lab6\lab6\obj\Debug\netcoreapp3.1\lab6.csproj.CopyComplete

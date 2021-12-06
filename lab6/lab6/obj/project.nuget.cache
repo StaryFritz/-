@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KKL4zdhOV5+hV6cHJ+HNq0tUvF5BhEedlqFOwsQX8wJNxmTqeBE4Df5a4bi2Aiael5JRgFNloP+MUeTn47G+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил Лагуновский\\Desktop\\ООТП\\lab6\\lab6\\lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
