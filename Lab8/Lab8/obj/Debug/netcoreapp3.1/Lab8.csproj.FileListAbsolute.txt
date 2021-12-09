@@ -1,0 +1,14 @@
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.AssemblyReference.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\Михаил Лагуновский\Desktop\ООТП\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
