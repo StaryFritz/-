@@ -17,10 +17,11 @@ namespace lab9
         public void doUpgrade(string newVersion)
         {
             version = newVersion;
-        }
-        public void OnOnUpgrade(string newVersion)
-        {
             OnUpgrade(newVersion);
+        }
+        public static void DisplayMessage(string version)
+        {
+            Console.WriteLine(version);
         }
         public void doTurnOn()
         {

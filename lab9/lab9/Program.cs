@@ -8,10 +8,9 @@ namespace lab9
         static void Main(string[] args)
         {
             Boss myLaptop = new Boss();
-            myLaptop.OnUpgrade += myLaptop.doUpgrade;
-            myLaptop.OnOnUpgrade("Windows 11");
+            myLaptop.OnUpgrade += Boss.DisplayMessage;
+            myLaptop.doUpgrade("Windows 11");
             myLaptop.doTurnOn();
-            Console.WriteLine(myLaptop.version);
 
             Func<string, string> A;
             var str = "abc   ,. de f,,,, GH";
