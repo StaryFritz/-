@@ -1,0 +1,40 @@
+Current class lab12.Reflector is situated in lab12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Class Constructors:
+Void .ctor()
+Void .ctor(Int32)
+Class Methods:
+Int32 CompareTo(System.Object)
+Int32 CompareTo(Int32)
+Boolean Equals(System.Object)
+Boolean Equals(Int32)
+Int32 GetHashCode()
+System.String ToString()
+System.String ToString(System.String)
+System.String ToString(System.IFormatProvider)
+System.String ToString(System.String, System.IFormatProvider)
+Boolean TryFormat(System.Span`1[System.Char], Int32 ByRef, System.ReadOnlySpan`1[System.Char], System.IFormatProvider)
+Int32 Parse(System.String)
+Int32 Parse(System.String, System.Globalization.NumberStyles)
+Int32 Parse(System.String, System.IFormatProvider)
+Int32 Parse(System.String, System.Globalization.NumberStyles, System.IFormatProvider)
+Int32 Parse(System.ReadOnlySpan`1[System.Char], System.Globalization.NumberStyles, System.IFormatProvider)
+Boolean TryParse(System.String, Int32 ByRef)
+Boolean TryParse(System.ReadOnlySpan`1[System.Char], Int32 ByRef)
+Boolean TryParse(System.String, System.Globalization.NumberStyles, System.IFormatProvider, Int32 ByRef)
+Boolean TryParse(System.ReadOnlySpan`1[System.Char], System.Globalization.NumberStyles, System.IFormatProvider, Int32 ByRef)
+System.TypeCode GetTypeCode()
+System.Type GetType()
+Class Fields:
+Int32 field
+Class Properties:
+Int32 Property
+Class Interfaces
+System.ICloneable
+System.Collections.IList
+System.Collections.ICollection
+System.Collections.IEnumerable
+System.Collections.IStructuralComparable
+System.Collections.IStructuralEquatable
+System.Int32 methods with System.Int32 parameter
+Int32 CompareTo(Int32)
+Boolean Equals(Int32)
