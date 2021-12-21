@@ -18,6 +18,9 @@ namespace lab13
             LMBDirInfo.creationInfo(@"C:\Users\Михаил Лагуновский\Desktop\ООТП\lab13\lab13\bin\Debug\netcoreapp3.1");
             LMBDirInfo.subDirCapacity(@"C:\Users\Михаил Лагуновский\Desktop\ООТП\lab13\lab13");
             LMBDirInfo.parentDir(@"C:\Users\Михаил Лагуновский\Desktop\ООТП\lab13\lab13");
+
+            LMBFileManager.InspectDirectory(@"C:\Users\Михаил Лагуновский\Desktop\ООТП\lab13\lab13");
+            LMBFileManager.CopyFiles(@"C:\Users\Михаил Лагуновский\Desktop\ООТП\lab13\lab13", ".txt");
         }
     }
 }

@@ -1,0 +1,15 @@
+|Директории|
+bin
+LMBInspect
+obj
+
+|Файлы|
+lab13.csproj
+LMBDirInfo.cs
+LMBDiskInfo.cs
+LMBFileInfo.cs
+LMBFileManager.cs
+LMBLog.cs
+Program.cs
+sometext.txt
+test.zip
