@@ -1,0 +1,36 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Collections.Generic.List`1[[lab14.TVShow%2C%20lab14%2C%20Version%3D1.0.0/System.Private.CoreLib%2C%20Version%3D5.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3D7cec85d7bea7798e">
+      <_items href="#ref-2" />
+      <_size>5</_size>
+      <_version>5</_version>
+    </a1:_x0030__x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a2:TVShow[8]">
+      <item href="#ref-3" />
+      <item href="#ref-4" />
+      <item href="#ref-5" />
+      <item href="#ref-6" />
+      <item href="#ref-7" />
+    </SOAP-ENC:Array>
+    <a2:TVShow id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Name_x003E_k__BackingField id="ref-8">The Sopranos</_x003C_Name_x003E_k__BackingField>
+      <_x003C_Length_x003E_k__BackingField>134</_x003C_Length_x003E_k__BackingField>
+    </a2:TVShow>
+    <a2:TVShow id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Name_x003E_k__BackingField id="ref-9">The Office</_x003C_Name_x003E_k__BackingField>
+      <_x003C_Length_x003E_k__BackingField>145</_x003C_Length_x003E_k__BackingField>
+    </a2:TVShow>
+    <a2:TVShow id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Name_x003E_k__BackingField id="ref-10">The Simpsons</_x003C_Name_x003E_k__BackingField>
+      <_x003C_Length_x003E_k__BackingField>171</_x003C_Length_x003E_k__BackingField>
+    </a2:TVShow>
+    <a2:TVShow id="ref-6" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Name_x003E_k__BackingField id="ref-11">The Witcher</_x003C_Name_x003E_k__BackingField>
+      <_x003C_Length_x003E_k__BackingField>165</_x003C_Length_x003E_k__BackingField>
+    </a2:TVShow>
+    <a2:TVShow id="ref-7" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/lab14/lab14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_x003C_Name_x003E_k__BackingField id="ref-12">Friends</_x003C_Name_x003E_k__BackingField>
+      <_x003C_Length_x003E_k__BackingField>108</_x003C_Length_x003E_k__BackingField>
+    </a2:TVShow>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

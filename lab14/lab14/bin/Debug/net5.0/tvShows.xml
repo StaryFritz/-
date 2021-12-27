@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfTVShow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TVShow>
+    <Name>The Sopranos</Name>
+  </TVShow>
+  <TVShow>
+    <Name>The Office</Name>
+  </TVShow>
+  <TVShow>
+    <Name>The Simpsons</Name>
+  </TVShow>
+  <TVShow>
+    <Name>The Witcher</Name>
+  </TVShow>
+  <TVShow>
+    <Name>Friends</Name>
+  </TVShow>
+</ArrayOfTVShow>

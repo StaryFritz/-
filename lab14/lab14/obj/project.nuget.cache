@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoQlE7AbjAu4s4lA3N8lkHTclXw87vu/bVAIKXA6dUCWp2gxMMH6uJvQblAiwkQW3u4UU01uHmc3EF6+byMiOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил Лагуновский\\Desktop\\ООТП\\lab14\\lab14\\lab14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\soapformatter\\1.0.11\\soapformatter.1.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
