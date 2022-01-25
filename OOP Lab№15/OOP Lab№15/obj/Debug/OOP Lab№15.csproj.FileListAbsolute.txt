@@ -1,7 +1,0 @@
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\bin\Debug\OOP Lab№15.exe.config
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\bin\Debug\OOP Lab№15.exe
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\bin\Debug\OOP Lab№15.pdb
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\obj\Debug\OOP Lab№15.csproj.AssemblyReference.cache
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\obj\Debug\OOP Lab№15.csproj.CoreCompileInputs.cache
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\obj\Debug\OOP Lab№15.exe
-C:\Users\Михаил Лагуновский\Desktop\ООТП\OOP Lab№15\OOP Lab№15\obj\Debug\OOP Lab№15.pdb
